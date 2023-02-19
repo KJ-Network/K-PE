@@ -1,4 +1,5 @@
 # K-PE Github仓库
+![Alt text](/pe.png?raw=true "截图")
 * 这是一个简单的Windows PE
 * wim内核来自WePE
 * 我们的宗旨是:
