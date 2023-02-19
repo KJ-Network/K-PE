@@ -8,6 +8,7 @@
 * 1.科家/KJ (KSKJ5755)
 * 2.流然/LiuranLiuran (liuran2022)
 * 如果要加入我们，请发送邮件至: kskjprotonemail@proton.me
+* （由于工程文件过大，暂时无法上传，请见谅）
 * 这就是这个自述文件的内容了
 * 以下为英译(机翻)
 * This is a simple Windows PE.
@@ -18,4 +19,5 @@
 * 1.KJ/科家 (KSKJ5755)
 * 2.Liuran/流然 (liuran2022)
 * If you want to join us, please send an email to:kskjprotonemail@proton.me
+* (Because the project file is too large, it cannot be uploaded temporarily, please forgive me)
 * This is the content of the readme file
