@@ -1,5 +1,5 @@
 # K-PE Github仓库
-![Alt text](/pe.png?raw=true "最新发行版v2.2.6版本截图")
+![Alt text](/pe.png?raw=true "最新发行版R-v1.0版本截图")
 * 这是一个简单的Windows PE
 * wim内核来自WePE（2.2.3以上被改为自制内核）
 * 我们的宗旨是:
