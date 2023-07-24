@@ -1,6 +1,6 @@
 # K-PE Github仓库
 # Powered By
-![Alt text](/"KJ Network.gif"?raw=true "Powered By KJ Network")
+![Alt text](/KJ-Network.gif?raw=true "Powered By KJ Network")
 * 截图:
 ![Alt text](/pe.png?raw=true "最新发行版R-v2.0截图")
 * 这是一个简单的Windows PE
