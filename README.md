@@ -2,7 +2,7 @@
 # Powered By
 ![Alt text](/KJ-Network.gif?raw=true "Powered By KJ Network")
 * 截图:
-![Alt text](/pe.png?raw=true "最新发行版R-v2.0截图")
+![Alt text](/pe.jpg?raw=true "最新发行版R-v2.1截图")
 * 这是一个简单的Windows PE
 * 我们的宗旨是:
 * 打造一个完美的全能Windows维护环境
