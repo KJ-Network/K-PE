@@ -10,5 +10,3 @@
 * 1.科家/KeJia (KNKJ55)
 * 2.流然/Liuran (liuran2024)
 * 如果要加入我们，请发送邮件至: kskjprotonemail@proton.me
-* 当前分支为标准版
-* 了解K-PE兼容版请看K-PE Compatible分支
